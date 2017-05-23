@@ -1,2 +1,5 @@
 # hello-world
-passion,ambition..... just a repo
+
+Hi Fellow-beings,
+
+GSC here, I like linux and SQL. 
